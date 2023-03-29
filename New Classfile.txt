@@ -1,4 +1,0 @@
-GitHub Training
-
-TestCase1
-TestCase2
